@@ -114,6 +114,8 @@ After ComfyUI starts:
 - `js/ty_orbit_sphere_light_widget.js`: frontend preview and gizmo logic
 - `js/vendor/three.min.js`: bundled Three.js runtime for offline use
 - `examples/ty_orbit_sphere_light_basic_workflow.json`: minimal workflow example
+- `examples/ComfyUI-TY-OrbitSphereLight.json`: full original workflow example used by the project author
+- `examples/ComfyUI-TY-OrbitSphereLight.png`: workflow preview image
 - `README.zh-CN.md`: Chinese documentation
 - `THIRD_PARTY_NOTICES.md`: source attribution and upstream notice
 

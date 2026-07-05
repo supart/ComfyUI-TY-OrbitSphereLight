@@ -112,6 +112,8 @@ git clone https://github.com/supart/ComfyUI-TY-OrbitSphereLight.git
 - `js/ty_orbit_sphere_light_widget.js`: 前端预览和手柄逻辑
 - `js/vendor/three.min.js`: 内置 Three.js 运行时
 - `examples/ty_orbit_sphere_light_basic_workflow.json`: 最小示例工作流
+- `examples/ComfyUI-TY-OrbitSphereLight.json`: 作者实际使用的完整原始工作流
+- `examples/ComfyUI-TY-OrbitSphereLight.png`: 工作流预览图
 - `README.md`: 英文说明
 - `THIRD_PARTY_NOTICES.md`: 来源说明和上游注意事项
 
