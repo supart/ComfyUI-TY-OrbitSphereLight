@@ -11,3 +11,5 @@
 - Bundled `three.min.js` locally for offline installation.
 - Added `README.zh-CN.md` and a minimal example workflow.
 - Added paired frontend support through the TY light reference page and fixed clean download filenames.
+- Expanded repository documentation to clearly describe the TY-specific changes, upstream origins, and public-release attribution notes.
+- Added `THIRD_PARTY_NOTICES.md` to track upstream source references before final public packaging.
